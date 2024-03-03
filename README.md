@@ -35,10 +35,10 @@ The script can be run in a Matlab environment. To use this demo, you need to run
 
 The expected wavelet transform results are shown as follows.  The expected run time for demo on a "normal" desktop computer is about 0.27 seconds.
 
-![](figures/output.png)
+<img src="figures/output.png" style="zoom: 67%;" />
 
 
 
 ## 4. Instructions for use
 
-The default input file for the code is `1000Hz.txt`. To run the code on your data, you need to place your data files in the `data` folder and modify the variable `file_path ` in the Matlab code `wavelet_transformation.m`. 
+The default input file for the code is `1000Hz.txt`. To run the code on your data, you need to place your data files in the `data` folder and modify the variable `file_path` in the Matlab code `wavelet_transformation.m`. 
